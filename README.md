@@ -18,7 +18,7 @@
 ##########*     =#############:          :+*#%@@@%%%*=
 ```
 
-Welcome to my active development and documentation archive for **MAK 199 (CRN 24268)** at **Istanbul Technical University (İTÜ)**. 
+Welcome to my documentation archive for **MAK 199 (CRN 24595)** at **Istanbul Technical University (İTÜ)**. 
 
 Rather than treating these weekly laboratory sessions as routine academic hurdles, I've opened this repository to document a rapid-prototyping journey. In this class, I've had the chance to experiment with a diverse stack of design and engineering tools—moving between **AutoCAD, FreeCAD, Fusion 360, SolidWorks, OnShape, Blender, and Meshmixer** to explore, refine, and physically manufacture complex mechanical geometries.
 

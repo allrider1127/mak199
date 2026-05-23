@@ -31,4 +31,6 @@ This repository contains the technical documentation and industrial case studies
 | 11 | [Lab-11-Infill-Topology-Research](./Lab-11-Infill-Topology-Research/) | Internal Lattice Optimization & Lightweighting |
 
 ---
+| **Engineering Dossiers** | [Google Drive: Verified Lab Reports & Documentation](https://drive.google.com/drive/folders/1KTj06oLOuWI0tRQjvCxtkhKTh3z050OP?usp=drive_link) |
+---
 > **Disclaimer**: All physical artifacts are backed by signed validation sheets and full 3D interactive models on OnShape.

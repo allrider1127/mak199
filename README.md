@@ -58,6 +58,5 @@ My core workflows revolve around:
 ## 🌐 Central Repositories & Artifacts
 
 * 📄 **Verified Engineering Dossiers:** [Google Drive Hub](https://drive.google.com/drive/folders/1KTj06oLOuWI0tRQjvCxtkhKTh3z050OP?usp=drive_link)
-* ⬢ **Interactive Digital Twins:** [OnShape Directory Workspace](https://cad.onshape.com/documents?resourceType=folder&nodeId=7f373fd0029dee05f554f083&column=modifiedAt&sortOrder=desc)
 
 > 🔐 **Verification Notice:** To ensure data authenticity, all manual sketches carry personal validation signatures, and digital modeling screenshots are paired directly with physical student identification cards.

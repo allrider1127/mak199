@@ -65,10 +65,10 @@
     <tspan x="50" dy="15" fill="#bac2de" font-size="11px">  Fall 2025 · İTÜ Makina Fakültesi</tspan>
   </text>
 
-  <!-- Slicer gauge visualization -->
+  <!-- Course gauge visualization -->
   <rect x="50" y="395" width="300" height="8" rx="4" fill="#313244"/>
-  <rect x="50" y="395" width="285" height="8" rx="4" fill="url(#accentGrad)"/>
-  <text x="50" y="420" class="bar-text" fill="#a6adc8">Extruder Heat █████████████████░ 215°C</text>
+  <rect x="50" y="395" width="300" height="8" rx="4" fill="url(#accentGrad)"/>
+  <text x="50" y="420" class="bar-text" fill="#a6adc8">Completion ███████████████████████ 100%</text>
 
   <!-- Right Side: Fastfetch Info -->
   <text x="490" y="85" class="info" xml:space="preserve">
